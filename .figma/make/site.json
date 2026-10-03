@@ -1,0 +1,10 @@
+{
+  "description": "Showcases a software factory's mission focused on ODS 3, featuring team member profiles and a documentation section for easy access to meeting agendas.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
